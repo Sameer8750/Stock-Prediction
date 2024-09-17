@@ -1,3 +1,3 @@
 # CodeAlpha_Stock-Prediction
 
-<center> dasas </center>
+https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
