@@ -51,6 +51,7 @@ EDA was conducted to uncover patterns, trends, and insights within the Netflix s
 ## 🚀 Key Features :
 
 **1. Python Analysis**
+
 Delve into the Python code to discover the transformations, data manipulations, and predictive analyses applied to the Netflix stock dataset. Key processes include:
 
 - Data Cleaning: Handling missing values, outliers, and ensuring data consistency.
@@ -58,6 +59,7 @@ Delve into the Python code to discover the transformations, data manipulations, 
 - Normalization: Scaling data using MinMaxScaler for efficient model training.
   
 **2. Predictive Modeling**
+
 Implemented various machine learning and deep learning models to forecast Netflix stock prices:
 
 - Linear Regression: Established a baseline for predictive performance.
@@ -67,6 +69,7 @@ Implemented various machine learning and deep learning models to forecast Netfli
 - LSTM & GRU: Employed deep learning models to capture temporal dependencies and sequential patterns in stock prices.
   
 **3. Visualization and Dashboard**
+
 Created an interactive dashboard using Dash and Plotly to visualize stock data, predictions, and insights in real-time:
 
 - Candlestick Chart: Visualizes Open, High, Low, and Close prices for comprehensive stock movement analysis.
@@ -76,6 +79,7 @@ Created an interactive dashboard using Dash and Plotly to visualize stock data, 
 - Interactive Filters: Allows users to customize views based on date ranges, stock attributes, and moving average windows.
 
 **4. Model Performance Metrics**
+
 Evaluated model performance using various metrics to ensure accuracy and reliability:
 
 - Mean Squared Error (MSE)
@@ -84,6 +88,7 @@ Evaluated model performance using various metrics to ensure accuracy and reliabi
 - R-squared (R²)
   
 **5. Hyperparameter Tuning**
+
 Optimized model parameters to enhance predictive performance through:
 
 - Grid Search: Systematically explored hyperparameter combinations.
@@ -91,6 +96,7 @@ Optimized model parameters to enhance predictive performance through:
 - Early Stopping: Prevented overfitting by halting training when validation performance ceased to improve.
 
 **6. Feature Importance**
+
 Analyzed feature importance to understand which variables most significantly impact stock price predictions, providing actionable insights for investment strategies.
 
 
