@@ -19,6 +19,35 @@ The Netflix Stock Prediction dataset encompasses historical stock price data and
 - Volume: The number of Netflix shares traded during the day.
 - Adj Close: The adjusted closing price, reflecting stock splits and dividends.
 
+## 🧪 Exploratory Data Analysis (EDA):
+
+EDA was conducted to uncover patterns, trends, and insights within the Netflix stock dataset:
+
+1. Price Movements:
+
+- Daily Trends: Analyzed day-to-day fluctuations in stock prices.
+- Monthly & Yearly Trends: Identified long-term trends and seasonal patterns.
+
+2. Volume Trends:
+
+- Studied the trading volume variations and their correlation with price movements.
+
+3. Moving Averages:
+
+- Calculated 20-day, 50-day, and 200-day moving averages to smooth out short-term price fluctuations and identify long-term trends.
+
+4. Correlation Analysis:
+
+- Investigated relationships between different stock attributes (Open, High, Low, Close, Volume) to understand interdependencies.
+
+5. Seasonality:
+
+- Explored seasonal trends affecting stock performance, such as earnings reports and major content releases.
+
+6. Price Distribution:
+
+- Analyzed the distribution of closing prices to understand the stock's volatility and performance consistency.
+
 
 
 
