@@ -48,6 +48,49 @@ EDA was conducted to uncover patterns, trends, and insights within the Netflix s
 
 - Analyzed the distribution of closing prices to understand the stock's volatility and performance consistency.
 
+## 🚀 Key Features :
 
+**1. Python Analysis**
+Delve into the Python code to discover the transformations, data manipulations, and predictive analyses applied to the Netflix stock dataset. Key processes include:
+
+- Data Cleaning: Handling missing values, outliers, and ensuring data consistency.
+- Feature Engineering: Creating new features like moving averages, volatility indicators, and lagged variables to enhance model performance.
+- Normalization: Scaling data using MinMaxScaler for efficient model training.
+  
+**2. Predictive Modeling**
+Implemented various machine learning and deep learning models to forecast Netflix stock prices:
+
+- Linear Regression: Established a baseline for predictive performance.
+- Random Forest Regressor: Captured non-linear relationships in the data.
+- Support Vector Machine (SVM): Utilized for regression tasks with high-dimensional data.
+- XGBoost: Leveraged for its robustness and performance in structured data.
+- LSTM & GRU: Employed deep learning models to capture temporal dependencies and sequential patterns in stock prices.
+  
+**3. Visualization and Dashboard**
+Created an interactive dashboard using Dash and Plotly to visualize stock data, predictions, and insights in real-time:
+
+- Candlestick Chart: Visualizes Open, High, Low, and Close prices for comprehensive stock movement analysis.
+- Volume Prediction: Displays predicted trading volumes alongside historical data.
+- Moving Averages: Shows different moving averages to identify trend directions.
+- Animated Plots: Incorporates animations to dynamically illustrate stock performance over time.
+- Interactive Filters: Allows users to customize views based on date ranges, stock attributes, and moving average windows.
+
+**4. Model Performance Metrics**
+Evaluated model performance using various metrics to ensure accuracy and reliability:
+
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)
+- R-squared (R²)
+  
+**5. Hyperparameter Tuning**
+Optimized model parameters to enhance predictive performance through:
+
+- Grid Search: Systematically explored hyperparameter combinations.
+- Random Search: Randomly sampled hyperparameter space for efficiency.
+- Early Stopping: Prevented overfitting by halting training when validation performance ceased to improve.
+
+**6. Feature Importance**
+Analyzed feature importance to understand which variables most significantly impact stock price predictions, providing actionable insights for investment strategies.
 
 
