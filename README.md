@@ -3,7 +3,8 @@
 ## 📈 Netflix Stock Prediction
 
 
-![gif3](https://github.com/user-attachments/assets/2b9e16b4-2632-4ecb-bde2-e4d1e2cf8b59)
+![gif3](https://github.com/user-attachments/assets/2b9e16b4-2632-4ecb-bde2-e4d1e2cf8b59)                 ![Screenshot (272)](https://github.com/user-attachments/assets/d1593d2e-a9a3-4723-bffd-9e752a8b5a1c)
+
 
 
 
