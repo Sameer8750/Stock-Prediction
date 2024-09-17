@@ -1,5 +1,3 @@
 # CodeAlpha_Stock-Prediction
 
-
-
-![gif3](https://github.com/user-attachments/assets/ebc0d852-2750-46a7-a8aa-562c2031923f)
+![Picture366](https://github.com/user-attachments/assets/5ea8a60b-acfc-4784-810e-5e5366be0805)        ![Picture144](https://github.com/user-attachments/assets/d10612cd-e73f-4fc9-b13a-ff67f99b8840)
