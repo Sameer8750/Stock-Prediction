@@ -146,10 +146,28 @@ Ensure you have Python installed. Install the required packages using pip:
 
 Ensure the Netflix stock dataset (Netflix.csv) is placed in the data/ directory. The dataset should include columns: Date, Open, High, Low, Close, Volume, and Adj Close.
 
-📊 Dashboard Preview :
+## 📊 Dashboard Preview :
 
 - Candlestick Chart: Analyze daily stock movements with Open, High, Low, and Close prices.
 - Volume Trends: View historical and predicted trading volumes.
 - Moving Averages: Customize moving average windows to identify trends.
 - Interactive Filters: Adjust date ranges and stock attributes for tailored insights.
 - Animated Visuals: Watch dynamic plots illustrating stock performance over time.
+
+## 🤝 Contributing
+
+Contributions are welcome! Whether you want to enhance the analysis, improve the dashboard, or add new features, your input is valuable.
+
+**Guidelines:**
+
+- Follow the existing code style and documentation standards.
+- Ensure that any new features include relevant tests.
+- Provide clear and concise commit messages.
+- Update the documentation to reflect your changes.
+
+## 📬 Contact
+
+Feel free to reach out for any queries, suggestions, or collaborations:
+
+- Sameer Shinde
+- Email: sameershinde1621@gmail.com
