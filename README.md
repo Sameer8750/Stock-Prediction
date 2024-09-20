@@ -101,4 +101,45 @@ Optimized model parameters to enhance predictive performance through:
 
 Analyzed feature importance to understand which variables most significantly impact stock price predictions, providing actionable insights for investment strategies.
 
+## 🧰 Tools Used
+
+- Python: Core programming language for data analysis and modeling.
+- Pandas: Data manipulation and analysis.
+- NumPy: Numerical computations.
+- Matplotlib & Seaborn: Data visualization.
+- Plotly & Dash: Interactive plotting and dashboard creation.
+- Scikit-learn: Machine learning algorithms and tools.
+- XGBoost: Gradient boosting framework for optimal performance.
+- Keras & TensorFlow: Deep learning frameworks for LSTM and GRU models.
+
+## 💡 Insights
+
+- Market Leaders: Netflix’s stock exhibits strong performance trends, often leading in streaming sector movements.
+- Volatility Patterns: Identified periods of high volatility correlating with major content releases and earnings reports.
+- Volume Correlations: Trading volume spikes are closely linked with significant price movements, indicating strong investor interest.
+- Moving Averages: 50-day and 200-day moving averages effectively signal trend reversals and momentum shifts.
+- Model Performance: LSTM and GRU models outperform traditional machine learning models in capturing temporal dependencies and providing accurate forecasts.
+
+## 📈 Key Insights
+
+- Trend Identification: Netflix's stock shows consistent upward momentum during expansion phases, with occasional corrections aligning with broader market downturns.
+- Volume Analysis: Increased trading volumes often precede significant price movements, serving as potential indicators for investment decisions.
+- Moving Averages Utility: Moving averages serve as reliable indicators for long-term trend analysis, aiding in the identification of buy and sell signals.
+- Model Accuracy: Deep learning models (LSTM & GRU) provide superior predictive accuracy compared to traditional models, effectively capturing the complexities of stock price movements.
+- Seasonal Patterns: Certain times of the year, such as earnings seasons and major content releases, consistently influence stock performance.
+
+## 🛠️ Setup and Usage 
+
+**1. Clone the Repository**
+```bash
+    https://github.com/Sameer8750/SCT_TrackCode_01.git
+```
+
+**2. Install Dependencies**
+
+Ensure you have Python installed. Install the required packages using pip:
+```bash
+    pip install pandas numpy matplotlib seaborn plotly dash dash-bootstrap-components scikit-learn xgboost tensorflow keras
+```
+
 
