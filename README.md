@@ -142,4 +142,14 @@ Ensure you have Python installed. Install the required packages using pip:
     pip install pandas numpy matplotlib seaborn plotly dash dash-bootstrap-components scikit-learn xgboost tensorflow keras
 ```
 
+**3. Data Preparation**
 
+Ensure the Netflix stock dataset (Netflix.csv) is placed in the data/ directory. The dataset should include columns: Date, Open, High, Low, Close, Volume, and Adj Close.
+
+📊 Dashboard Preview :
+
+- Candlestick Chart: Analyze daily stock movements with Open, High, Low, and Close prices.
+- Volume Trends: View historical and predicted trading volumes.
+- Moving Averages: Customize moving average windows to identify trends.
+- Interactive Filters: Adjust date ranges and stock attributes for tailored insights.
+- Animated Visuals: Watch dynamic plots illustrating stock performance over time.
