@@ -1,4 +1,4 @@
-# CodeAlpha_Stock-Prediction
+# Stock-Prediction
 
 ## 📈 Netflix Stock Prediction
 
