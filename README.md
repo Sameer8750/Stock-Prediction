@@ -4,7 +4,7 @@
 
 
 
-![gif3](https://github.com/user-attachments/assets/2b9e16b4-2632-4ecb-bde2-e4d1e2cf8b59)     ![Picture0888](https://github.com/user-attachments/assets/74269138-54b8-4de3-8dd9-c43930eac577)
+ ![Picture0888](https://github.com/user-attachments/assets/74269138-54b8-4de3-8dd9-c43930eac577)
 
 
 
@@ -168,3 +168,5 @@ Feel free to reach out for any queries, suggestions, or collaborations:
 
 - Sameer Shinde
 - Email: sameershinde1621@gmail.com
+
+![gif3](https://github.com/user-attachments/assets/2b9e16b4-2632-4ecb-bde2-e4d1e2cf8b59) 
