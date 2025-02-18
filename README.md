@@ -104,11 +104,7 @@ Analyzed feature importance to understand which variables most significantly imp
 
 ## 📊 Dashboard Preview :
 
-- Candlestick Chart: Analyze daily stock movements with Open, High, Low, and Close prices.
-- Volume Trends: View historical and predicted trading volumes.
-- Moving Averages: Customize moving average windows to identify trends.
-- Interactive Filters: Adjust date ranges and stock attributes for tailored insights.
-- Animated Visuals: Watch dynamic plots illustrating stock performance over time.
+![Image](https://github.com/user-attachments/assets/dbca2161-ef8c-4b8b-8ce8-6c247f9b9295)
 
 ## 🧰 Tools Used
 
